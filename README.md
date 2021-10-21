@@ -7,12 +7,15 @@ Troverai esercizi riguardanti:<br/>
 - ciclo For
 - cicli While e Do while
 - Numeri casuali<br/>
+
 **Array**<br/>
 - Dichairazione e utilizzo di Array monodimensionali
 - Dichiarazione e utilizzo di Array bidimensionali (matrici)<br/>
+
 **Funzioni**<br/>
 - Dichiarazione e utilizzo di funioni (void, int, bool, float)
 - algoritmi per il calcolo delle occorrenze<br/>
+
 **Algoritmi di ricerca**<br/>
 - Ord selection
 - bubble sort
